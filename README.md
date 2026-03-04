@@ -1,4 +1,4 @@
-#Grocery Store War – Zepto vs Blinkit
+##Grocery Store War – Zepto vs Blinkit
 
 An interactive Power BI dashboard that analyzes and compares the performance of two leading quick-commerce platforms – Zepto and Blinkit.
 
